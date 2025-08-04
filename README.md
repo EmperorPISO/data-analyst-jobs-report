@@ -4,4 +4,4 @@
 
 <h3>View my notebook with detailed steps here:</h3>
 
-[Skill Demand](vs-code\python\Data_Analysis_Project\Skill_Demand.ipynb)
+[Skill Demand](Skill_Demand.ipynb)
